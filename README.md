@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Rafiql!
 
 Welcome to my GitHub profile! I am a passionate developer, constantly exploring new technologies and improving my skills. Below is a bit more about me:
 
